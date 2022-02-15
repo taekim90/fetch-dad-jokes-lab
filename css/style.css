@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200&display=swap');
+
+body {
+    background-color: grey;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    font-size: 5vw;
+    margin: 8vw 0vw 0vw 0vw;
+    font-family: 'Oswald', sans-serif;
+}
+
+#button {
+    display: flex;
+    justify-content: center;
+    font-size: 2vw;
+    margin: 2vw 0vw 0vw 0vw;
+    border-radius: 10%;
+    font-family: 'Oswald', sans-serif;
+}
+
+#joke-container {
+    margin: 3vw 15vw 0vw 15vw;
+}
+
+#joke {
+    display: flex;
+    justify-content: center;
+    font-size: 2vw;
+    font-family: 'Oswald', sans-serif;
+}
